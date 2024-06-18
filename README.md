@@ -9,7 +9,7 @@
 Welcome to my GitHub profile! As a dedicated fullstack developer, I thrive on building robust, scalable software solutions that make a difference. Whether it's front-end design or back-end architecture, I bring passion and precision to every project.
 
 <div align="center">
-  <img align="center" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="280" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img align="center" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
 ### 📖 About Me
